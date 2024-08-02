@@ -43,7 +43,7 @@ export default function Home() {
         <div>
           <Image
             width="100%"
-            height="450px"
+            height="500px"
             src="assets/banner/maxresdefault 1.png"
           />
         </div>
