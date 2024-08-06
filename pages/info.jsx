@@ -1,11 +1,11 @@
 import React from "react";
 import { Image } from "antd";
 import Link from "next/link";
-import Layout from "../component/layout.js";
+import Layout from "./component/layout.jsx";
 
 function info() {
   return (
-    <Layout style={layoutStyle}>
+    <Layout>
       <div>
         <Image width="100%" height="500px" src="assets/banner/Frame 15.png" />
       </div>

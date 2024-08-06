@@ -1,5 +1,5 @@
 import React from "react";
-import Layout from "../component/layout.js"
+import Layout from "./component/layout"
 import { Image } from "antd";
 
 export default function Home() {
